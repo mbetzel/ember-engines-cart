@@ -5,5 +5,22 @@
   ],
   "dependencies": {
     "ember-cli-htmlbars": "*"
-  }
+  },
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbetzel/ember-engines-cart.git"
+  },
+  "author": "Mike Betzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbetzel/ember-engines-cart/issues"
+  },
+  "homepage": "https://github.com/mbetzel/ember-engines-cart#readme",
+  "description": ""
 }
